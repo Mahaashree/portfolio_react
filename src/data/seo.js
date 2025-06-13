@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm an AIML undergrad passionate about building intelligent, secure, and impactful tech solutions. From web apps to AI-driven tools, I enjoy crafting meaningful digital experiences.",
+		keywords: ["Mahaashree", "Mahaashree A", "AI developer", "ML projects", "full-stack dev", "face authentication", "telemedicine"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm exploring the intersection of AI, software, and problem-solving. With projects spanning face liveness detection, real-time applications, and cross-platform tools, I'm constantly learning and building.",
+		keywords: ["Mahaashree", "AI student India", "React developer", "ML builder", "AIML undergraduate", "project-based learning"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Thoughts, ideas, and breakdowns of projects in AI, security, and full-stack development—from face authentication to scalable apps.",
+		keywords: ["Mahaashree", "AI blog", "ML insights", "face detection writeups", "student projects", "learning journey"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"My projects explore real-world problems using AI and full-stack development. Many are open-source, and I welcome collaboration and feedback.",
+		keywords: ["Mahaashree", "AI projects", "telemedicine app", "face authentication", "React", "Firebase", "open source"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"If you're working on something exciting or want to collaborate, feel free to reach out. I'm always open to learning and building with others.",
+		keywords: ["Mahaashree contact", "connect with Mahaashree", "collaboration", "AIML developer", "tech networking"],
 	},
 ];
 

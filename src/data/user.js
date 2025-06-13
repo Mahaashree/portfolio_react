@@ -1,31 +1,29 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Portfolio by Mahaa",
+		name: "Mahaashree Anburaj",
+		email: "mahaashreeofficial@gmail.com",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
 		github: "https://github.com/",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "AI/ML enthusiast, aspiring full-stack developer, and problem-solver in progress.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm an undergraduate AIML student passionate about building impactful tech—whether it's a browser-based face authentication system or a telemedicine app. I enjoy turning abstract ideas into working solutions using Python, React, and emerging ML tools. While still growing my skills, I thrive in fast-paced learning environments and love collaborating on meaningful projects. Always curious, always building.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I'm Mahaashree A., based in India, where I'm building smart solutions with code and curiosity.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm an AIML undergrad who's worked on projects spanning face authentication, telemedicine, and real-time ML applications. I love exploring how AI and software can solve real-world problems, and many of my projects are open-source and still evolving. Whether it's improving browser-based security or collaborating on a new idea, I'm always open to feedback, learning, and building with others who share the same passion.",
 	},
+	
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
@@ -35,49 +33,33 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "ASFA - Anti Spoofing Face Authentication Models",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A sophisticated real-time face authentication system featuring multi-layer security with anti-spoofing detection, liveness verification, and facial recognition. Built for high-security applications requiring robust user verification.",
+			logo: "https://media.istockphoto.com/id/1460888449/vector/artificial-intelligence-computer-vision-line-vector-icon-on-white-background-editable-stroke.jpg?s=612x612&w=0&k=20&c=CLbFAoMrAyZlqM4ywIH3SD41BHENth0z5aBqguv_Kok=",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Mahaashree/ASFA_Models",
 		},
 
 		{
-			title: "Project 2",
+			title: "LLM RAG Document Q&A",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A streamlined document question-answering system using RAG (Retrieval-Augmented Generation) with LangChain and ChromaDB.",
+			logo: "https://t3.ftcdn.net/jpg/07/41/08/12/360_F_741081263_IWWaoUZLB20TnrueRp9HITVQMgoXVbN2.jpg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Mahaashree/Loki-LLM-RAG",
 		},
 
 		{
-			title: "Project 3",
+			title: "AI powered Legal Assistant",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"A NLP application that analyzes legal documents for potential risks and generates annotated PDFs with highlighted risk clauses and suggested improvements.",
+			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQHp77RUU27WvgGuYW26ccejI9jr_zIBRang&s",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Mahaashree/Lexsure-Legal-Document-Analyser",
 		},
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		
 	],
 };
 
